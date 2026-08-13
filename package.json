@@ -1,0 +1,19 @@
+{
+  "name": "mjl-iot-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "🌸 mjl · 物联网作品集 (Vue 3 版) —— 才、才不是假期作业呢……🌸",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}
